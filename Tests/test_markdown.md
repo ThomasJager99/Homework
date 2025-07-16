@@ -1,4 +1,4 @@
 Jesus Christ
 is in Heaven Now
 
-![jesus](image/jesus.png)
+![jesus](../image/jesus.png)
